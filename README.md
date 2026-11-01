@@ -72,7 +72,7 @@ Therefore, Precision, Recall, and F1 Score directly describe the model's ability
 
 **To be updated after deployment on Streamlit Community Cloud.**
 
-`https://ml-classification-app-srsbx2a9wq8duyannle9cv.streamlit.app/`
+[Live Streamlit App](https://ml-classification-app-srsbx2a9wq8duyannle9cv.streamlit.app/)
 
 ---
 
